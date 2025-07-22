@@ -2,4 +2,7 @@ open3d>=0.17.0
 numpy>=1.26.0
 pandas>=2.2.0
 plyfile>=0.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+scikit-learn>=1.0.0
 seaborn
